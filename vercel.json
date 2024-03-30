@@ -1,9 +1,5 @@
 {
   "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "https://cj24.webflow.io//$1",
-      "status": 200
-    }
+
   ]
 }
